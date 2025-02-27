@@ -21,9 +21,17 @@ Dieses WordPress-Plugin fügt einen anpassbaren Countdown-Timer als Widget hinzu
 6.  Gehe zu "Design" -> "Widgets" und füge das "Sunflower Countdown"-Widget zu einem Widget-Bereich hinzu.
 7.  Konfiguriere das Widget mit dem gewünschten Titel und Enddatum.
 
-## Screenshot
-
+## Screenshots
+Screenshot in Wordpress Backend, Design->Widgets:
 ![Screenshot Design Widget Sunflower Countdown](screenshot_design_widget_sunflowercountdown.png)
+
+Vorschau Screenshot
+![Screenshot Design Widget Sunflower Countdown Preview](screenshot_design_widget_countdownpreview.png)
+
+Screenshot live
+![Screenshot Design Widget Sunflower Countdown Preview](screenshot_design_widget_countdown-live.png)
+
+
 
 ## Anpassung
 
