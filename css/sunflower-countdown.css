@@ -1,0 +1,32 @@
+/* Grundlegende Stile für den Countdown-Timer */
+.sunflower-countdown {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Passe die Schriftart an das Theme an */
+    font-size: 1.5em; /* Passe die Schriftgröße an */
+    color: #333; /* Passe die Textfarbe an */
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9; /* Passe die Hintergrundfarbe an */
+    border: 1px solid #ddd; /* Passe die Rahmenfarbe an */
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  /* Stile für die Countdown-Zahlen */
+  .sunflower-countdown span {
+    font-weight: bold;
+    color: #007bff; /* Passe die Farbe der Zahlen an */
+  }
+  
+  /* Responsives Design (optional) */
+  @media (max-width: 768px) {
+    .sunflower-countdown {
+      font-size: 1.2em;
+      padding: 10px;
+    }
+  }
+ 
+.digital-countdown {
+    font-size: 2em;
+    text-align: center;
+    padding: 10px;
+}
